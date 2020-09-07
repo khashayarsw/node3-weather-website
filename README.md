@@ -1,10 +1,5 @@
 Weather website uses **Nodejs** and **Express** framework to interact with [darksky](https://darksky.net) and [mapbox](https://mapbox.com) for getting weather APIs:
 
-see website: [weather-website](https://khashayar-weather-app.herokuapp.com)<br><br><br><br>
+see website: [weather-website](https://khashayar-weather-app.herokuapp.com)<br><br>
 
-
-
-
-
-
-![Image of weather-website](http://www.khashayarweb.ir/github-images/weather-website.png)
+<img src="https://raw.githubusercontent.com/khashayarsw/node3-weather-website/master/weather-screenshot.png">
